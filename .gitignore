@@ -1,0 +1,5 @@
+build/*
+
+*.txt
+# except readme file
+!README.txt
